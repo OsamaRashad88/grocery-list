@@ -1,0 +1,27 @@
+.layout{
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;  
+}
+.grocery{
+  width: 50%;
+}
+ h2{
+  text-align: center;
+}
+.item-list{
+  display: flex;
+  justify-content: space-between;
+}
+.Btn{
+  background-color: transparent;
+  border: none;
+}
+.Btn:hover{
+  cursor: pointer;
+}
+*{
+  text-align: center;
+}
+#alert{background-color: yellow;}
